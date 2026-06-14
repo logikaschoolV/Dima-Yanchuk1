@@ -1,0 +1,51 @@
+<html>
+     <head>
+         <title>leding</title>
+         <link rel="stylesheet" href="style.css">
+     </head>
+<body>
+    <header>
+        <!-- Шапка: назва сайту, логотип, навігація -->
+        <div class="logo">/🐙🐬🐟Океан</div>
+        <nav>
+            <a href="#about">ПРо Океан</a>
+            <a href="#servis">рибки</a>
+            <a href="#contacts">вода</a>
+        </nav>
+    </header>
+    <main>
+        <!-- Основна інформація сайту -->
+     <section class="hero">
+         <h1>Океанаріум</h1>
+         <p>Досліджуйте Океан з нами.</p>
+         <button class="btn-main">Почати Досліджувати</button>
+     </section>
+      <section id="servis" class="features">
+          <div class="card-container">
+              <div class="card">
+                  <img src="океан3.jfif">
+                  <h3>Пляж</h3>
+                  <p>Океан круче, чем на Мальдивах, а туры – значительно дешевле</p>
+              </div>
+              <div class="card">
+                  <img src="океан.jfif">
+                  <h3>Рибки</h3>
+                  <p>>Мировой океан – барометр здоровья планеты и его показания вызывают тревогу</p>
+              </div>
+              <div class="card">
+                  <img src="океан.webp" width="300px" height="250px">
+                  <h3>Хвилі</h3>
+                  <p>Що таке океан: Визначення, характеристики та вплив на планету</p>
+              </div>
+              
+          </div>
+      </section>
+    
+    </main>
+    <footer>
+        <!-- Підвал з додатковою інформацією та підписом автора -->
+      <p>&copy; захищені права</p>
+    </footer>
+</body> 
+
+</html>
